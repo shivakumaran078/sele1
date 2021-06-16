@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testngenable">
+	<test name="day3">
+		<groups>
+			<run>
+				<exclude name="phone">
+
+
+				</exclude>
+
+			</run>
+		</groups>
+		<classes>
+			<class name="day3.grouping1"></class>
+		</classes>
+	</test>
+</suite>

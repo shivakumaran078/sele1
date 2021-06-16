@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testng">
+	<test name="day3">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="day3.parameter">
+			</class>
+		</classes>
+	</test>
+</suite>

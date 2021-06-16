@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testngenable">
+	<listeners>
+		<listener class-name="day3.ListenerExamples"></listener>
+	</listeners>
+
+	<test name="day3">
+		<groups>
+			<run>
+				<exclude name="phone">
+
+					<include name="headset">
+					</include>
+				</exclude>
+
+			</run>
+		</groups>
+		<classes>
+			<class name="day3.enabledconcept" />
+		</classes>
+	</test>
+</suite>

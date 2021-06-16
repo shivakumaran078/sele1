@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testng" time-out="3000">
+<test name="day3">
+<classes>
+<class name="day3.grouping1">
+</class>
+</classes>
+</test>
+</suite>
